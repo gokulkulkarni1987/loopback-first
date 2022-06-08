@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "ds261570.mlab.com",
+    "port": 61570,
+    "url": "mongodb://gokulkulkarnisoczen:gomathi123@ds261570.mlab.com:61570/loopback_first",
+    "database": "loopback_first",
+    "password": "gomathi123",
+    "name": "MongoDB",
+    "user": "gokulkulkarnisoczen",
+    "connector": "mongodb"
+  }
+}
